@@ -12,7 +12,7 @@
 
 - 🙍‍♂️‍ My favourite programming language: **Java, JavaScript, Python**
 
-- 📫 How to reach me ****
+
 
 
 
