@@ -2,7 +2,7 @@
 
 - 😊 I obtained my Bachelor of Science Degree in **Honorous Mathematics and Computer Science** at **McMaster University**
 
-- 🏝 I’m currently learning **React.js, Node.js, ASP.NET**, **Next.js**
+- 🏝 I’m currently learning **ASP.NET**, **Next.js**
 
 - 🎢 My research interest is **machine learning** and **cryptography**
 
